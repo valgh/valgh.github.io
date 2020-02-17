@@ -4,7 +4,7 @@ Who am I? Check -> [About](https://valgh.github.io/about)
 
 Reach out to me: check -> [Contacts](https://valgh.github.io/contacts)
 
-A very cool tool -> [map](https://valgh.github.io/map.html)
+_How's the world doing?_ -> [cybermap](https://cybermap.kaspersky.com/)
 
 ## List of repositories on GitHub:
 
