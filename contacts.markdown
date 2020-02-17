@@ -1,6 +1,6 @@
 # Contacts
 
-_nothing yet._
+You can find me on [LinkedIn](https://www.linkedin.com/in/valerio-trenta/)
 
 
-[_go back_](https://valgh.github.io)
+[_<-back_](https://valgh.github.io)
