@@ -6,4 +6,4 @@ layout: home
 ---
 
 # Welcome!
-Who am I? -> [Link](https://valgh.github.io/enter_trenta/about.html
+Who am I? -> [Link](https://valgh.github.io/enter_trenta/about.html)
