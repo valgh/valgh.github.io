@@ -8,7 +8,7 @@ _How's the world doing?_ -> [cybermap](https://cybermap.kaspersky.com/)
 
 ## Posts:
 
-* ***New*** [Basic Vulnerability Assessment in IoT: Shodan and IoTSeeker](https://valgh.github.io/basicvulniot)
+* ***New*** [Basic Vulnerability Assessment in IoT: Shodan and IoTSeeker](https://valgh.github.io/shodan_iot_seeker)
 
 ## List of repositories on GitHub:
 
