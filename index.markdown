@@ -8,6 +8,7 @@ _How's the world doing?_ -> [cybermap](https://cybermap.kaspersky.com/)
 
 ## Posts:
 
+* ***New!*** - OWASP Web Security Testing Guide - _coming soon..._
 * ***New!*** _Web Application Security with Mutillidae_ - coming soon...
 * [Basic Vulnerability Assessment in IoT: Shodan and IoTSeeker](https://valgh.github.io/shodan_iot_seeker)
 
