@@ -11,7 +11,7 @@ I like experimenting with code and stuff if I have time to spare, so some posts 
 in the future, here and there.
 
 Hope you'll enjoy this content! 
-Please consider reaching out to me through the [contacts](https://valgh.github.io/contact) section of you need or just
+Please consider reaching out to me through the [contacts](https://valgh.github.io/contacts) section of you need or just
 want to chat about anything!
 
 [_<-back_](https://valgh.github.io)
