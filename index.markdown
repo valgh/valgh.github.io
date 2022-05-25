@@ -8,8 +8,7 @@ _How's the world doing?_ -> [cybermap](https://cybermap.kaspersky.com/)
 
 ## Posts:
 
-* ***New!*** - OWASP Web Security Testing Guide - _coming soon..._
-* ***New!*** _Web Application Security with Mutillidae_ - coming soon...
+* ***New!*** - "Docker and Kubernetes: The Complete Guide" from Local to Production
 * [Basic Vulnerability Assessment in IoT: Shodan and IoTSeeker](https://valgh.github.io/shodan_iot_seeker)
 
 ## List of repositories on GitHub:
@@ -21,3 +20,4 @@ _How's the world doing?_ -> [cybermap](https://cybermap.kaspersky.com/)
 * ***Assignments for Practical Network Defense course at Sapienza University of Rome, a.y. 2019/2020*** - [here!](https://github.com/valgh/pnd-assignments)
 * ***Function Classification in Unstripped Binaries - report for the Seminars in Advanced Topics in Computer Science, course at Sapienza University of Rome, a.y. 2019/2020*** [here!](https://github.com/valgh/SATCS_Function_Classification)
 * ***Code from REACTJS Tutorial on YouTube, credits and link in README.md*** - [bere!](https://github.com/valgh/react_js_tutorial)
+* ***Files and code from "Docker and Kubernetes: The Complete Guide" course from Stephen Grider on Udemy*** - [1 - here!](https://github.com/valgh/docker-react) [2 - here!](https://github.com/valgh/multi-docker) [3 - here!](https://github.com/valgh/multi-k8s)
