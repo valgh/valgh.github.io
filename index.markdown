@@ -8,7 +8,7 @@ _How's the world doing?_ -> [cybermap](https://cybermap.kaspersky.com/)
 
 ## Posts:
 
-* ***New!*** - "Docker and Kubernetes: The Complete Guide" from Local to Production
+* ***New!*** - ["Docker and Kubernetes: The Complete Guide" from Local to Production](https://valgh.github.io/docker_k8s)
 * [Basic Vulnerability Assessment in IoT: Shodan and IoTSeeker](https://valgh.github.io/shodan_iot_seeker)
 
 ## List of repositories on GitHub:
