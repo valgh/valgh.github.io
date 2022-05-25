@@ -2,7 +2,7 @@
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/valerio-trenta/).
 
-E-mail address Will sono be available.
+You can also send me an e-mail, if you want: trenta.valerio@gmail.com
 
 
 [_<-back_](https://valgh.github.io)
