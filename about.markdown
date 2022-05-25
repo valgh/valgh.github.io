@@ -1,10 +1,10 @@
 # About
 
-I am a 25 year-old student, currently enrolled at the second year of the Master's Degree in Engineering in 
+I am a 27 year-old boy living in Rome, who pursued his Master's Degree in Engineering in 
 Computer Science at Sapienza University of Rome.
-My main interests are cybersecurity, machine learning and everything concerning algorithms and data 
-(e.g. data mining, information retrieval and privacy). 
-Currently, I am a Junior Developer with Frontend Development experience, mainly working with Js/REACTJS and Java languages.
+My main interests are software engineering, cybersecurity, machine learning and everything concerning algorithms and data 
+(e.g. from data structures to data mining, information retrieval and privacy). 
+Currently, I am a Software Engineer (Junior) with Frontend Development experience, mainly working with Js/REACTJS and Java languages. I recently started working as a backend developer, dealing mainly with C/C++/Java architectures and Docker/Kubernetes.
 
 This space is meant to serve as a repository of the work I did and put on GitHub for sharing.
 I like experimenting with code and stuff if I have time to spare, so some posts are likely to be made
