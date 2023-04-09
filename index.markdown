@@ -6,6 +6,7 @@ Reach out to me: check -> [Contacts](https://valgh.github.io/contacts)
 
 ## Posts:
 
+* ***NEW!*** [Spring Boot, Spring Data and MongoDB: enters RoomCleaner!](https://valgh.github.io/roomcleaner)
 * ***NEW!*** [Spring Boot and Spring Cloud: Microservices](https://valgh.github.io/springcloud)
 * ["Docker and Kubernetes: The Complete Guide" from Local to Production](https://valgh.github.io/docker_k8s)
 * [Basic Vulnerability Assessment in IoT: Shodan and IoTSeeker](https://valgh.github.io/shodan_iot_seeker)
@@ -21,3 +22,8 @@ Reach out to me: check -> [Contacts](https://valgh.github.io/contacts)
 * ***Code from REACTJS Tutorial on YouTube, credits and link in README.md*** - [bere!](https://github.com/valgh/react_js_tutorial)
 * ***Files and code from "Docker and Kubernetes: The Complete Guide" course from Stephen Grider on Udemy*** - [1 - here!](https://github.com/valgh/docker-react) [2 - here!](https://github.com/valgh/multi-docker) [3 - here!](https://github.com/valgh/multi-k8s)
 * ***Spring Boot Cloud Exercise Repository:*** - [here!](https://github.com/valgh/springboot-fun)
+
+## My Certifications and Badges:
+
+* [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/7154fe42-f582-438d-b688-6f561742b53d/public_url)
+* [IBM Container & Kubernetes Essentials V2](https://www.credly.com/badges/9c7ebdca-3727-459d-97ee-5c3bb8646858/public_url)
