@@ -7,4 +7,4 @@ Well, whatever the answer, now you can test ChatGPT models against this peculiar
 
 This tool is entirely made with Golang, which I think is an extremely simple, powerful and useful language to make Command Line Interfaces (and only that!). Lately I've been eager to explore a little more Golang and its wonderful [perks](https://medium.com/@julienetienne/why-go-the-benefits-of-golang-6c39ea6cff7e), and this little idea i had gave me an excuse to write some Go code.
 
-Many features are yet to be implemented, but in the meantime, if you want to check it out and give it try, check the [gofit repository!](https://github.com/valgh/gofit).
+Many features are yet to be implemented, but in the meantime, if you want to check it out and give it a try, check the [gofit repository!](https://github.com/valgh/gofit).
