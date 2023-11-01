@@ -10,3 +10,6 @@ I was amazed by how easily the Spring framework lets you define the model, repos
 
 The project is currently ongoing: I defined a few APIs and CRUD actions which might be useful in the future, but I am yet to define much more logic about room and user handling.
 I'd also like to implement a light-weight Web UI to interact with the backend, to finally let us define our shifts appropriately.
+
+**UPDATE**: well, I managed to make some time to build and unit-test the core endpoints of the application. There's still a lot to do and improve, but in the meantime, I also added a Swagger UI to describe, document and even test the APIs.
+You can find some more details in the README of the repository, as well as some clues on the next steps and activities.
